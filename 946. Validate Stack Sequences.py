@@ -1,6 +1,6 @@
 class Solution(object):
     def validateStackSequences(self, pushed, popped):
-        """
+        """ https://leetcode.com/problems/validate-stack-sequences/
         :type pushed: List[int]
         :type popped: List[int]
         :rtype: bool
